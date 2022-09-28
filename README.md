@@ -9,9 +9,9 @@ I'm always willing to learn ! 😀
 </p>
 <br><br>
 <p>📫 <b>Contact me:</b><br><br>
-✉ marceloarmella91@gmail.com
+<p><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="40" height="40"/> marceloarmella91@gmail.com</p>
+<p><a href="https://www.linkedin.com/in/marcelo-armella/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" width="40" height="40"/></a> /marcelo-armella</p>
 </p>
-
 
 <!--
 **marcearmella/marcearmella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
